@@ -1,5 +1,5 @@
 import java.util.Objects;
-
+//User file
 public class User {
 
     private String name;
